@@ -2,7 +2,8 @@
 
 # Definition
 Given a sample dataset containing soci-economic chracterstics (features) of a population, the model tries to predicts
-if an individual will suffer mental illness (Yes, No).
+if an individual will suffer mental illness (Yes, No). 
+Note: Requires training dataset being saved inside root folder of the project.
 
 This is typical Data Science (Analytics) project and the approach developed here follows the Cross-Industry Standard Process 
 for executing Data Science project.
