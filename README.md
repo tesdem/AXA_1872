@@ -3,14 +3,20 @@
 # Definition
 Given a sample dataset containing soci-economic chracterstics (features) of a population, the model tries to predicts
 if an individual will suffer mental illness (Yes, No).
+
 This is typical Data Science (Analytics) project and the approach developed here follows the Cross-Industry Standard Process 
 for executing Data Science project.
+
 Preprocessing of the datset is being carried out using Exploratory Data Analysis (EDA), suitable statistical tests are being carried out,
 and most influential features (variables) that affect mental illness have been identified.
+
 Appropriate AI/Machine Learning algorithm was chosen, and narratives for chosing the algorithm and limitations of the algorithm
 were taken into consideration.
+
 The predictive model has been built using the influential variables and fine-yunes for best performance.
+
 The file for the saved final model is found inside 'test' folder of the Git repository.
+
 The final best model will predict mental illness with 67% accuracy.
 
 Given a test dataset, the model can be run in simple steps as follows:
